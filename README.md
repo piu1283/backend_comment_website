@@ -7,5 +7,5 @@ features:
   3. Search business information through categories, location and name;
   4. Writing review for a merchant and give stars for their services.
   5. Provide Calculated consumption per person for each merchant.
-  6. A management system with authority system for managing the information of the website.
+  6. A management system with authority system for managing the information of the website, include name, img, location, review, categories, etc of merchant, and account/permissions of user and administrator.
  
