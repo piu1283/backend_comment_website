@@ -29,13 +29,6 @@ public class BusinessTask {
 	
 	@Resource
 	private SysParamDao sysParamDao;
-
-	/**
-	 * 同步已售数量
-	 */
-	public void synNumber() {
-		logger.info("已同步！");
-	}
 	
 	/**
 	 * 同步星级
