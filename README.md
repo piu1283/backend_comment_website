@@ -2,7 +2,7 @@
 This is a course project for practicing Java Web and database.
 The front-end using React, developed separatly with back-end part. Both of the two part using Restful API to transfer data.
 
-features:
+Features:
   1. SMS login verification;
   2. JWT authentication;
   3. Search business information through categories, location and name;
